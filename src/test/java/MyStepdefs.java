@@ -9,6 +9,5 @@ public class MyStepdefs {
 
     public void iPerformTheGETOperationFor() {
         given().contentType("");
-        System.out.println("Just an example");
     }
 }
