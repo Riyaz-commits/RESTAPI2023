@@ -9,5 +9,6 @@ public class MyStepdefs {
 
     public void iPerformTheGETOperationFor() {
         given().contentType("");
+
     }
 }
